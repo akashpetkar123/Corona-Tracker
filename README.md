@@ -8,3 +8,4 @@ It also gives you the information of recovered and death rate in terms of percen
 This can also be implemented for other countries data you need tpo change the code a little bit.
 
 I Hope you will get some idea of the project.
+This project is created in Spring MVC pattern.
