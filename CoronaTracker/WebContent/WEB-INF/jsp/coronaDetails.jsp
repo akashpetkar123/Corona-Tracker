@@ -42,7 +42,7 @@
 		<a href="${pageContext.request.contextPath}">Link to Index Page</a>
 	</p>
 	<p>
-		Note:- This API contains information of all the countries, as it is for India i am showing the information of India 
+		Note:- This API contains information of all the countries. 
 	</p>
 </body>
 </html>
